@@ -1,20 +1,19 @@
 title: Audra Blue
 description: American Staffordshire Terrier
-url: http://www.audra.blue
-avatar: /book/assets/img/blueball_avatar.jpg
+url: http://audra.blue
+avatar: /assets/img/bleuball_avatar.jpg
 favicon: /assets/img/favicon.ico
 google_analytics: 
 disqus_shortname: 
 
 about:
-  - paragraph: ?link?, a simple Jekyll theme. Built by ?link?
+  - paragraph: I'd like to give a bark out to ?link? for this Jekyll ?link?.
     text_align: center
     links:
-      - name: Book
-        url: https://github.com/kkninjae/book
-        external: true
       - name: Lang Liu
         url: http://kkninjae.com/about/
         external: false
-
+      - name: Design
+        url: https://github.com/kkninjae/book
+        external: true
     
