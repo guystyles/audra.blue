@@ -1,19 +1,19 @@
 title: Audra Blue
 description: American Staffordshire Terrier
 url: http://audra.blue
-avatar: /assets/img/bleuball_avatar.jpg
+avatar: /assets/img/audraAvatar.jpg
 favicon: /assets/img/favicon.ico
 google_analytics: 
 disqus_shortname: 
 
 about:
-  - paragraph: I'd like to give a bark out to ?link? for this Jekyll ?link?.
+  - paragraph: Audra Blue is an American Staffordshire Terrier in Portland Oregon.
     text_align: center
-    links:
-      - name: Lang Liu
-        url: http://kkninjae.com/about/
-        external: false
-      - name: Design
-        url: https://github.com/kkninjae/book
-        external: true
+    # links:
+    #   - name: Lang Liu
+    #     url: http://kkninjae.com/about/
+    #     external: false
+    #   - name: Design
+    #     url: https://github.com/kkninjae/book
+    #     external: true
     
