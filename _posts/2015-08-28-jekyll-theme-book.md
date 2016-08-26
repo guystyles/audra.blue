@@ -6,10 +6,13 @@ tags: review, dog park
 category: blog
 ---
 
-<title> {{ page.title }} </title>
-------------
+{{ page.title }}
+---
 
 Hillsdale is on the top of my list of dog parks for numerous reasons.
+
+Top 5 dog perks
+---
 
 1. No leashes required
 2. It's very clean
